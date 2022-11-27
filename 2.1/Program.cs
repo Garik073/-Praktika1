@@ -17,4 +17,4 @@ int MaxNum(int num)
     return num_max;
 }
 
-Console.WriteLine(MaxNum(new Random().Next(10, 100)));
+Console.WriteLine(MaxNum(new Random().Next(10, 100)));g
